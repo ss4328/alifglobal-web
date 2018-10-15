@@ -1,0 +1,17 @@
+{
+  "name": "alifglobal-web",
+  "version": "1.0.0",
+  "description": "website for alifglobal",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "shivansh.suhane@gmail.com",
+  "license": "MIT"
+}

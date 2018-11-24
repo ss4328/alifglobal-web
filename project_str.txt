@@ -1,0 +1,19 @@
+DTH Drilling:
+    -Intro
+    -Bit face selection
+    
+DTH Hammer page:
+    -Features
+    -Specifications
+
+DTH Hammer Bits page:
+    -Diameter/weight/face_available
+    -Rotation torque requirements classified by bit size
+
+Side:
+    -Operating under water
+    -Drilling with foam and polymers
+    -Effect of altitude and temperature
+    -Rotation speed
+    -Total weight on bit/feed pressure + next page
+    -Hammer storage + next page

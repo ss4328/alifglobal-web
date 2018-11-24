@@ -1,0 +1,61 @@
+.bodyPara{
+    padding: 15px;
+}
+
+div.gallery {
+    border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 10px;
+    
+}
+
+h3.imgDesc{
+    text-align: center;
+    
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.responsive {
+    padding: 20px;
+    float: left;
+}
+
+@media only screen and (max-width: 700px) {
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .responsive {
+        width: 100%;
+    }
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+ol {
+    margin: 0;
+    padding: 6px;
+    list-style-type: decimal;
+     padding: 15px;
+}
